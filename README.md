@@ -10,3 +10,7 @@ These Jupyter Notebooks are intended for beginners.
 
 * [Conda Python Intro](https://github.com/macloo/conda-python-intro)
 * [Python Beginners](https://github.com/macloo/python-beginners)
+
+## Other Help
+
+[Installing Python for beginners](https://weimergeeks.com/wp/python/installing-python-for-beginners/)
