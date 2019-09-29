@@ -36,6 +36,7 @@
 ehthumbs.db
 Thumbs.db
 
-# Juoyter generated files #
+# Jupyter generated files #
 ###########################
 *.ipynb_checkpoints
+/.ipynb_checkpoints
