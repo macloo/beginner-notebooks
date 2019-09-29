@@ -6,6 +6,10 @@ These Jupyter Notebooks are intended for beginners.
 
 */completed* contains notebooks in which all cells have run.
 
+To view a notebook without installing *anything*, copy the file's GitHub URL and [paste it here](https://nbviewer.jupyter.org/).
+
+[See an example.](https://nbviewer.jupyter.org/github/macloo/beginner-notebooks/blob/master/completed/basic_basic_basic_matplotlib.ipynb)
+
 ## Other Repos for Teaching Python
 
 * [Conda Python Intro](https://github.com/macloo/conda-python-intro)
