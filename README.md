@@ -10,6 +10,11 @@ To view a notebook without installing *anything*, copy the file's GitHub URL and
 
 [See an example.](https://nbviewer.jupyter.org/github/macloo/beginner-notebooks/blob/master/completed/basic_basic_basic_matplotlib.ipynb)
 
+## Notebook Topics
+
+* Data visualization with Matplotlib and Bokeh
+* Web scraping with Beautiful Soup
+
 ## Other Repos for Teaching Python
 
 * [Conda Python Intro](https://github.com/macloo/conda-python-intro)
