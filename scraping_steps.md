@@ -23,15 +23,16 @@ Demo file: [A First Web Scraping Exercise](https://nbviewer.jupyter.org/github/m
 
 ## Scraping Multiple Pages
 
-1. If you have perfected how to get the desired data from a single page, and now you want to go to multiple pages that have the same HTML structure to get the same set of data from all those pages, you need a list of URLs.
-2. The list of URLs may be stored (in a CSV, in a plain-text file, etc.), or it may exist as a Python list or dictionary generated in your current script.
-3. In either case, you need to work out how to loop over the URLs and, one at a time, scrape the page using the code you previously wrote (see "Scrape Basics," above).
+1. You have perfected how to get the desired data from a single page. Now you want to go to multiple pages that have the same HTML structure to get the same set of data from all those pages.
+2. You need a list of URLs.
+3. The list of URLs may be stored (in a CSV, in a plain-text file, etc.), or it may exist as a Python list or dictionary generated in your current script.
+4. In any case, you need to work out how to loop over those URLs and (one at a time) scrape each page using the code you previously wrote (see "Scrape Basics," above).
 
 **Here is an example** of scraping the same data from multiple pages at one website: [Demo: How to scrape multiple things from multiple pages](https://nbviewer.jupyter.org/github/macloo/beginner-notebooks/blob/master/completed/scrape_multiples.ipynb)
 
 It is possible that you will use the steps in "Scrape Basics" twice:
 
 * Once to get the list of all URLs, and
-* Once to get data from a page containing details, such as name, address, and current employer.
+* Once to get data from a page containing details, such as name, address, and current employer. (Then use that code to get data from all pages.)
 
 **Here is an example** of scraping URLs from a page and then using those URLs to scrape other pages: [Scraping URLs and using them to open pages](https://nbviewer.jupyter.org/github/macloo/beginner-notebooks/blob/master/completed/scraping_URLs.ipynb)
