@@ -15,6 +15,8 @@ To view a notebook without installing *anything*, copy the file's GitHub URL and
 * Data visualization with Matplotlib and Bokeh
 * Web scraping with Beautiful Soup
 
+There is a guide for beginners here: [Web Scraping Steps](scraping_steps.md)
+
 ## Other Repos for Teaching Python
 
 * [Conda Python Intro](https://github.com/macloo/conda-python-intro)

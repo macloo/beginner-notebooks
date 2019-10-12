@@ -2,6 +2,8 @@
 
 This is a brief guide for beginners.
 
+[A First Web Scraping Exercise](https://nbviewer.jupyter.org/github/macloo/beginner-notebooks/blob/master/completed/scraping_first_time.ipynb)
+
 ## Preliminary
 
 1. Decide what data you need to get. Maybe you can get it without scraping.
