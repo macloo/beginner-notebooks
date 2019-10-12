@@ -27,7 +27,11 @@ This is a brief guide for beginners.
 2. The list of URLs may be stored (in a CSV, in a plain-text file, etc.), or it may exist as a Python list or dictionary generated in your current script.
 3. In either case, you need to work out how to loop over the URLs and, one at a time, scrape the page using the code you previously wrote (see "Scrape Basics," above).
 
+**Here is an example** of scraping the same data from multiple pages at one website: [Demo: How to scrape multiple things from multiple pages](https://nbviewer.jupyter.org/github/macloo/beginner-notebooks/blob/master/completed/scrape_multiples.ipynb)
+
 It is possible that you will use the steps in "Scrape Basics" twice:
 
 * Once to get the list of all URLs, and
 * Once to get data from a page containing details, such as name, address, and current employer.
+
+**Here is an example** of scraping URLs from a page and then using those URLs to scrape other pages: [Scraping URLs and using them to open pages](https://nbviewer.jupyter.org/github/macloo/beginner-notebooks/blob/master/completed/scraping_URLs.ipynb)
