@@ -2,7 +2,7 @@
 
 This is a brief guide for beginners.
 
-[A First Web Scraping Exercise](https://nbviewer.jupyter.org/github/macloo/beginner-notebooks/blob/master/completed/scraping_first_time.ipynb)
+Demo file: [A First Web Scraping Exercise](https://nbviewer.jupyter.org/github/macloo/beginner-notebooks/blob/master/completed/scraping_first_time.ipynb)
 
 ## Preliminary
 
