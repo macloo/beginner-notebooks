@@ -1,0 +1,13 @@
+name: jup
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - bokeh
+  - lxml
+  - requests
+  - beautifulsoup4
+  - html5lib
+  
